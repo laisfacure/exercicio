@@ -1,0 +1,36 @@
+Lista de exercício:
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.Todo arquivo de computador pode ser considerado binário, existe um tipo específico de arquivo de texto que consiste em um tipo de arquivo que sempre os 0 e 1 serão representação de caracteres. Arquivos adversos podem
+ter texto, audio e imagem.
+
+7.O protocolo aberto é baseado em padroes publicos, ou seja, aberto para qualquer indivíduo e o protocolo de formato proprietario permite a oferta de novos produtos, mas pode limitar a entrada de outros autores.
+
+8. A existencia de protocolos abertos continua contribuindo para o desenvolvimento do cenário da liberdade econômica e do desenvolvimento de
+novas aplicações para internet, ou seja, os protocolos podem ser definidos como regras ou padrões que controlam e possibilitam a conexão, permitindo a transferência segura de arquivos entre computadores em redes locais.
+
+9. a. Camada de abstração hardware permite que use componentes físicos.
+   b. não, pois existem vários.
+   c. Não é considerado venda casada para o STJ, porém a OAB discorda desse fato. Não é considerado venda casada se for parte essencial do produto.
+
+10. a. Sim, pois todo dado que está aqui no Brasil, que se encontra em território brasileiro deve ser tutelado pela LGPD
+    b. 1. Não, eles partem da premissa de que eles não se responsabilizam pelo que os indivíduos postam nas redes sociais
+       2. Também não, pois não há investimento o suficiente para aniquilar certas fake news, deixando tal cidadão vulnerável para notícias falsas.
+
+11. a. while, for.
+    b. Pela indentação, ou seja, o espaço entre o if e a função. 
+    c. Concatenação e adição, a concatenação é a criação de um texto novo que possui todos os textos anteriores, termo usado em computação para designar a operação de unir o conteúdo de duas strings. Já a adição,
+    ele pode ser usado também em algumas linguagens como operador de concatenação, que nada mais é do que encadear (ou unir) duas strings.
+    d. Um bloco de códigos reutilizável que executa uma tarefa específica 
+    e. Com a palavra chave def, seguida pelo nome da função (lista de parãmetros), bloco de comandos.
+    f. if idade > (18)
+          print (maior de idade) 
+       else print (menor de idade) 
